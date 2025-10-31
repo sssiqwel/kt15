@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\kt15.2\kt15.2\bin\Debug\net8.0\kt15.2.exe
+C:\Users\User\source\repos\kt15.2\kt15.2\bin\Debug\net8.0\kt15.2.deps.json
+C:\Users\User\source\repos\kt15.2\kt15.2\bin\Debug\net8.0\kt15.2.runtimeconfig.json
+C:\Users\User\source\repos\kt15.2\kt15.2\bin\Debug\net8.0\kt15.2.dll
+C:\Users\User\source\repos\kt15.2\kt15.2\bin\Debug\net8.0\kt15.2.pdb
+C:\Users\User\source\repos\kt15.2\kt15.2\obj\Debug\net8.0\kt15.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\kt15.2\kt15.2\obj\Debug\net8.0\kt15.2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\kt15.2\kt15.2\obj\Debug\net8.0\kt15.2.AssemblyInfo.cs
+C:\Users\User\source\repos\kt15.2\kt15.2\obj\Debug\net8.0\kt15.2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kt15.2\kt15.2\obj\Debug\net8.0\kt15.2.dll
+C:\Users\User\source\repos\kt15.2\kt15.2\obj\Debug\net8.0\refint\kt15.2.dll
+C:\Users\User\source\repos\kt15.2\kt15.2\obj\Debug\net8.0\kt15.2.pdb
+C:\Users\User\source\repos\kt15.2\kt15.2\obj\Debug\net8.0\kt15.2.genruntimeconfig.cache
+C:\Users\User\source\repos\kt15.2\kt15.2\obj\Debug\net8.0\ref\kt15.2.dll
